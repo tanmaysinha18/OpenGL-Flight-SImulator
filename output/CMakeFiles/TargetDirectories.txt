@@ -1,0 +1,3 @@
+/home/tanmay/IIIT/Courses/2-2/Graphics/Assignment2/Assignment2/output/CMakeFiles/edit_cache.dir
+/home/tanmay/IIIT/Courses/2-2/Graphics/Assignment2/Assignment2/output/CMakeFiles/rebuild_cache.dir
+/home/tanmay/IIIT/Courses/2-2/Graphics/Assignment2/Assignment2/output/CMakeFiles/graphics_asgn1.dir
