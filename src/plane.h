@@ -19,7 +19,7 @@ public:
     void draw(glm::mat4 VP);
     void set_position(float x, float y);
     glm::vec3 get_position();
-    static const float Stokes_constant = 0.05;
+    static constexpr float Stokes_constant = 0.05;
     void tick();
     //static const float acceleration_constant = 30.0f;
     int camera_flag;
@@ -34,7 +34,7 @@ public:
     time_t fired_bullets;
     float fuel;
     int score;
-    static const float max_fuel = 10000;
+    static constexpr float max_fuel = 10000;
     bool to_fire();
     void change_camera(GLFWwindow *window);
     void tick_input(GLFWwindow *window);

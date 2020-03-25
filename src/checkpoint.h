@@ -9,9 +9,9 @@ public:
   Checkpoint(float x,float y,float z,float radius);
   glm::vec3 position;
   float cylinder_radius;
-  static const float cylinder_length = 200;
+  static constexpr float cylinder_length = 200;
   float ring_radius;
-  static const float ring_length = 1;
+  static constexpr float ring_length = 1;
   void draw(glm::mat4 VP);
   bool check_passing(glm::vec3 pos);
   bool active;

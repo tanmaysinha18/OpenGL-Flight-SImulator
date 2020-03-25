@@ -11,7 +11,7 @@ public:
   glm::vec3 velocity;
   glm::vec3 acceleration;
   float cylinder_radius;
-  static const float cylinder_length = 1;
+  static constexpr float cylinder_length = 1;
   void draw(glm::mat4 VP);
   void tick();
   bool exists;

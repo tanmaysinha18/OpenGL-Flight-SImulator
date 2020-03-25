@@ -1,0 +1,3 @@
+/home/tanmay/IIIT/Courses/2-2/Graphics/Assignment2/Assignment2/OpenGL-Flight-Simulator/build/CMakeFiles/rebuild_cache.dir
+/home/tanmay/IIIT/Courses/2-2/Graphics/Assignment2/Assignment2/OpenGL-Flight-Simulator/build/CMakeFiles/graphics_asgn1.dir
+/home/tanmay/IIIT/Courses/2-2/Graphics/Assignment2/Assignment2/OpenGL-Flight-Simulator/build/CMakeFiles/edit_cache.dir

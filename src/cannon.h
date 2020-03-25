@@ -10,7 +10,7 @@ public:
   glm::vec3 position;
   glm::mat4 rotation_matrix;
   float cylinder_radius;
-  static const float cylinder_length = 20;
+  static constexpr float cylinder_length = 20;
   void draw(glm::mat4 VP);
   void tick(glm::vec3 r);
   bool active;
